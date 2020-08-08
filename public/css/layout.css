@@ -340,20 +340,40 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.javascript {
+  	width: 95%;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.react {
+  	width: 100%;
+  	-moz-animation: react 2s ease;
+  	-webkit-animation: react 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.typescript {
+   width: 30%;
+   -moz-animation: typescript 2s ease;
+   -webkit-animation: typescript 2s ease;
+}
+.node {
+   width: 70%;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
+}
+.sql {
+   width: 60%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
+}
+.linux {
+   width: 30%;
+   -moz-animation: linux 2s ease;
+   -webkit-animation: linux 2s ease;
+}
+.bash {
+   width: 30%;
+   -moz-animation: bash 2s ease;
+   -webkit-animation: bash 2s ease;
 }
 
 @-moz-keyframes photoshop {
