@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"jamiekeelen",
     "skypeid": "Your skypeid",
-    "roleDescription": "I have a deep passion for creating amazing things. I specialize in all things JavaScript, mainly React and Node. When I'm motivated to get something done, I produce results very quickly.",
+    "roleDescription": "I am a full-stack developer with a deep passion for creating amazing things. I specialize in all things JavaScript especially the MERN (Mongo Express React Node).",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Currently I am working full time as a Full Stack Developer for a company. I've been there for 4+ years and I am ready to take the next step in my career. In 2016 I completed the Hack Reactor program, which was a 3 month, 6 days a week, 12+ hours a day, very intense deep dive into JavaScript and all the frameworks and technologies around it.",
+    "aboutme":"Currently I am working full time as a Full Stack Developer for a software company in the healthcare space. I've been in my current position for 4+ years and I am ready to take the next step in my career. In 2016 I completed the Hack Reactor program, a 3 month, 6 days a week, 12+ hours a day, very intense deep dive into JavaScript and all the frameworks and technologies surrounding it.",
     "address":"jamie78933@gmail.com",
     "website":"(504) 952-3690",
     "education":[
@@ -32,7 +32,7 @@ let resumeData = {
       {
         "CompanyName":"Mumms Software",
         "specialization":"Full Stack Developer",
-        "MonthOfLeaving":"Current Job",
+        "MonthOfLeaving":"09/2016 - Current",
         "YearOfLeaving":"",
         "Achievements":"When I was first hired at Mumms, I quickly realized they were using old technologies EVERYWHERE. Development tasks were taking way longer than what they should have because of the older stuff. I started showing them all of the new things I had just learned and they were instantly sold, we started phasing out all of the old code and started pulling out functionality from these massive bulky slow plain JavaScript/jQuery apps and building micro-apps as react components that we could pass around and install into any of ours apps easily. By doing so we were able to improve the QOL of all of the developers, making the work environment much easier and quicker to work in, as well as get features out quicker and with less bugs!"
       },
