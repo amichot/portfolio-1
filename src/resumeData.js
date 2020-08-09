@@ -34,7 +34,7 @@ let resumeData = {
         "specialization":"Full Stack Developer",
         "MonthOfLeaving":"09/2016 - Current",
         "YearOfLeaving":"",
-        "Achievements":"When I was first hired at Mumms, I quickly realized they were using old technologies EVERYWHERE. Development tasks were taking way longer than what they should have because of the older stuff. I started showing them all of the new things I had just learned and they were instantly sold, we started phasing out all of the old code and started pulling out functionality from these massive bulky slow plain JavaScript/jQuery apps and building micro-apps as react components that we could pass around and install into any of ours apps easily. By doing so we were able to improve the QOL of all of the developers, making the work environment much easier and quicker to work in, as well as get features out quicker and with less bugs!"
+      "Achievements":"Led the transition from a plain vanilla JavaScript/jQuery app to React components built as micro-services. Improved the performance of much of their existing stack by over 10x. Improved the quality of life for the rest of the development team by teaching them new technologies and streamlining the workflow process. Maintained existing software in Perl, Bash, XML, XSLT, JavaScript, and SQL."
       },
       {
         "CompanyName":"The Refinery Haus",
@@ -44,7 +44,7 @@ let resumeData = {
         "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"JavaScript"
@@ -71,7 +71,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Hummingbird Clinical",
-        "description":"A very large application, frontend is plain JavaScript/jQuery, backend is Perl. The views are made running XSLT transforms on a XML Document Database. I worked on adding new features and fixing bugs through the full stack.",
+        "description":"A complete EMR (Electronic Medical Record) system for the hospice industry. The frontend consists of a 25,000 line JavaScript/jQuery application that transforms an XML data store to XHTML via XSLT Transforms. The backend is a collection of Perl, Bash, PSQL, XML, and XSLT comprising 30,000 lines of code.",
         "imgurl":"images/portfolio/fierfoxpatientlist.png"
       },
       {
@@ -86,12 +86,12 @@ let resumeData = {
       },
       {
         "name":"Scheduler",
-        "description":"A Angular app that handles scheduling recurring visits for a patient. I added minor features and did bug fixes.",
+        "description":"A Angular app that handles scheduling recurring visits for a patient. I added new features and did bug fixes.",
         "imgurl":"images/portfolio/scheduler.png"
       },
       {
         "name":"Certification App",
-        "description":"A React Micro-app that allows physicians to sign certifications. I added minor features and did bug fixes.",
+        "description":"A React Micro-app that allows physicians to sign certifications. I added new features and did bug fixes.",
         "imgurl":"images/portfolio/certappcert.png"
       }
     ],
