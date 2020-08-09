@@ -32,7 +32,7 @@ let resumeData = {
       {
         "CompanyName":"Mumms Software",
         "specialization":"Full Stack Developer",
-        "MonthOfLeaving":"09/2016 - Current",
+        "MonthOfLeaving":"Sept 2016 - Current",
         "YearOfLeaving":"",
       "Achievements":"Led the transition from a plain vanilla JavaScript/jQuery app to React components built as micro-services. Improved the performance of much of their existing stack by over 10x. Improved the quality of life for the rest of the development team by teaching them new technologies and streamlining the workflow process. Maintained existing software in Perl, Bash, XML, XSLT, JavaScript, and SQL."
       },
