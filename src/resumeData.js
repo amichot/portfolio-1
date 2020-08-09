@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"jamiekeelen",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am a full-stack developer with a deep passion for creating amazing things. I specialize in all things JavaScript especially the MERN (Mongo Express React Node).",
+    "roleDescription": "I am a full-stack developer with a deep passion for creating amazing things. I specialize in all things JavaScript especially the MERN (Mongo Express React Node) Stack.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -41,7 +41,7 @@ let resumeData = {
         "specialization":"Freelance React/Redux",
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2020",
-        "Achievements":""
+        "Achievements": "Converted a existing Angular app to a React + Redux app"
       }
     ],
     "skillsDescription":"",
