@@ -72,27 +72,27 @@ let resumeData = {
       {
         "name":"Student Reports",
         "description":"A five report system for the user to view student data. The frontend consists of a JavaScript/React application that utilizes AG Grid to search and display large complex datasets. The backend is built in AWS using NodeJS and Microsoft SQL.",
-        "imgurl":"images/portfolio/StudentReports.png"
+        "imgurl":"build/images/portfolio/StudentReports.png"
       },
       {
         "name":"Email Template Editor",
         "description":"Uses custom variables to create and edit email templates for mass email sending to students.",  
-        "imgurl":"images/portfolio/EmailTemplateCreator.png"
+        "imgurl":"build/images/portfolio/EmailTemplateCreator.png"
       },
       {
         "name":"Course Category Add Edit",
         "description":"A complex category system that ultimately determines which categories show up for company websites. It is composed of Javascript/Jquery along with .Net",
-        "imgurl":"images/portfolio/CourseCategoryAddEdit.png"
+        "imgurl":"build/images/portfolio/CourseCategoryAddEdit.png"
       },
       {
         "name":"PhotoUploader",
         "description":"A drag and drop photo uploader for users to upload profile pictures.",
-        "imgurl":"images/portfolio/PhotoUploader.png"
+        "imgurl":"build/images/portfolio/PhotoUploader.png"
       },
       {
         "name":"Student Check-In",
         "description":"A service app used by front office to check students into classes. I worked on adding new features and fixing bugs through the full stack.",
-        "imgurl":"images/portfolio/StudentCheckIn.png"
+        "imgurl":"build/images/portfolio/StudentCheckIn.png"
       }
     ],
     "testimonials":[
