@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"amichot",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am a full-stack developer with a deep passion for creating amazing things. I specialize in all things JavaScript especially the MERN (Mongo Express React Node) Stack.",
+    "roleDescription": "I am a full-stack developer with a deep passion for creating amazing things. I specialize in all things JavaScript especially React and Node.",
     "socialLinks":[
         {
           "name":"linkedin",
