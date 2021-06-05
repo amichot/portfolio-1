@@ -19,7 +19,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "Currently I am working full time as a Full Stack Developer for a software company in the education/safety space. I've been in my current position for almost 2 years and I am ready to take the next step in my career. In 2019 I completed the Thinkful program, a 6 month, 5 days a week, 8+ hours a day, very intense deep dive into JavaScript and all the frameworks and technologies surrounding it.",
+    "I am a Full Stack Developer for a software company in the education/safety space. I've been in my current position for 2 years and I am ready to take the next step in my career. I completed the Thinkful program in 2019: a 6 month, 8+ hours a day, deep dive into JavaScript and modern frameworks and technologies surrounding it.",
   address: 'adrian_michot@yahoo.com',
   website: '(985) 414-4836',
   education: [
@@ -31,7 +31,8 @@ let resumeData = {
     },
     {
       UniversityName: 'Nicholls State University',
-      specialization: 'Humanities',
+      specialization:
+        'Interdisciplinary Studies, Concentration in Business and Government',
       MonthOfPassing: 'May',
       YearOfPassing: '2014',
     },
@@ -43,7 +44,7 @@ let resumeData = {
       MonthOfLeaving: 'Aug 2019 - Current',
       YearOfLeaving: '',
       Achievements:
-        'Leading the transition from a Visual Basic app to React components built as micro-services. Improved the performance of the existing stack. Improved the quality of life for the rest of the development team by helping them with new technologies and streamlining the workflow process. Maintained existing software in Visual Basic, JavaScript, and SQL.',
+        'Leading the transition from a Visual Basic app to React components built as micro-services. Improved the performance of the existing stack. Improving the developer experience by migrating to modern technologies and streamlining the workflow process. Maintaining existing software in Visual Basic, JavaScript, and SQL.',
     },
   ],
   skillsDescription: '',
@@ -55,7 +56,7 @@ let resumeData = {
       skillname: 'Visual Basic',
     },
     {
-      skillname: 'React/Redux',
+      skillname: 'React',
     },
     {
       skillname: 'Node',
@@ -104,9 +105,13 @@ let resumeData = {
   testimonials: [
     {
       description:
-        'My name is Doug Lubey, and I am the IT Director at ASC. It is my privilege to recommend Adrian Michot. He has worked for Alliance Safety Council (ASC) for the last 18 months as a Developer. During his time here, I have developed respect for him personally and professionally. \n' +
-        'Adrian values learning and growing as an individual. Adrian has been assigned various projects at Alliance. He started his career at Alliance Safety Council working on small enhancements to our .net web application platform (iLEVEL). This domain experience has allowed him to grow our application into the Amazon Web Service (AWS) environments. His most recent project included building new APIs and wiring these endpoints into a React Application. This project experience demonstrates his ability to acquire the needed skills to make him an asset within ASC technology team. \n' +
-        'Adrian also works well within our Agile team. He can express himself at the sprint retro and on our departmental meetings. His ability to communicate with others is very professional. Our team respects his knowledge, comments, and suggestions. He is also accepting of other individuals’ feelings and reacts appropriately when handling tough situations. \n' +
+        `My name is Doug Lubey, and I am the IT Director at ASC. It is my privilege to recommend Adrian Michot. He has worked for Alliance Safety Council (ASC) for the last 18 months as a Developer. During his time here, I have developed respect for him personally and professionally.
+        
+        ` +
+        'Adrian values learning and growing as an individual. Adrian has been assigned various projects at Alliance. He started his career at Alliance Safety Council working on small enhancements to our .net web application platform (iLEVEL). This domain experience has allowed him to grow our application into the Amazon Web Service (AWS) environments. His most recent project included building new APIs and wiring these endpoints into a React Application. This project experience demonstrates his ability to acquire the needed skills to make him an asset within ASC technology team.' +
+        ' ' +
+        'Adrian also works well within our Agile team. He can express himself at the sprint retro and on our departmental meetings. His ability to communicate with others is very professional. Our team respects his knowledge, comments, and suggestions. He is also accepting of other individuals’ feelings and reacts appropriately when handling tough situations. ' +
+        ' ' +
         'Adrian’s work ethic has those qualities which allow others to be open while getting the job done correctly the first time.',
       name: 'Doug Lubey Director of Technology',
     },
